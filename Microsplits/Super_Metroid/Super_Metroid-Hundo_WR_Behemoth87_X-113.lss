@@ -1,0 +1,1554 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Super Metroid</GameName>
+  <CategoryName>
+  </CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>SL.0 - Ceres Escape</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAGAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKdSURBVDhPY7ATlFFkF2BkYCxx0Nmb7a7Mzc/AwCDEy8/EyARkgAGcAQbCTNxcDOxABiMDg7GwKCcTi4q0/NTCJk4WXnZWAQ42fjNNZ1kxTbA8GLAzsAKNh3IYGDnZhXtzKpJ9QlN8EpN9EsqiC1RkdJkYmRkZWKFK4MDFxCHQzr85teDMnGUFYYnTiluOz5wX4uhtpKYnzKfOxiqM5jamsqi8SwuXz61sWdHYleQdfXLWoqzA6ADbwHmV3eFOkbKi1qwsPFC1QCDMr9iRWTGvqi0rKHJKUU28jZ+vtX92YGZ2UNbUopaSyDx5cTseThmoJWKC4lOLmi4uWDm/qm11y8Rl9d16iua2Wq4nZy/Y1j1ha/fkaUVtKtLO8mL2vFyKDKICom1pFSWRcflhcSm+ce3ReXpKJoqSMlvaJsa4R5lpWorwSzIzMTMzsfNxyfJxqTII8wkK8komesU3JBWdnrMsxCGg3Dsi0iX07NxFO3unB9iG54bkuJn5c7KJMTKysDGCw4qbQzEjIPXo9HnTiivdTN1vLl8baOdlqeOwpWvi1q4Z4c5xChIWUsIWMlxCMhzcDIyMjOysEh0Z1etauznYOR2N3G4sW2WjZ+lh7i8mKN2SWm6i7iMmYMrFLtLtYh6voQGyQUFCw8M8SIRfWFZMzkjN6PScpda6psL8EnrKVjycUtIilgrijsrcMuWG+vP8bEEagCZpyBsBGXJiWgG2UeXRJfISyoK8MrKi5kK8GsxMHLycytZykntzPWd4WII0AAEbIxsjIysHmwgfl5q6rAsvlwwjIxs3hxgzExsQARVoCgqervCb7gnTAAFAPSxMXIoSDkJ86kyMLFBRMGBmZNQVFFod7QjlQwAkSbOxcHMyc0NE0ICbrDQAOcOVlK1HZyAAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:01:27.8700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>G.1 - Morph Ball</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAIgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACnSURBVDhPpZLBFcIwDEMzDqNyYAoGYhGGcCNjOXKSAg8Ov0lt6ffS1q5WudzscW8LmM9Zs37mQIoentiJhiACWuibgcxVkoJSjgK/mDsR+SwFHEQoi08b90DlOF3Al/JllEmUd7lF4EEt7yQfBeCkDL4TgE0ZvBVwccaccwFfuNTCjJZxvgR//wf9ksMIOCgQmWeuCESyiIKyi04VEAkrWiQuwON3rB1BlR+JLIGPlgAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:03:01.7900000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.5 - First Missile</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:03:22.5700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>G.2 - Bomb</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAgwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAEISURBVDhPnZMxEoIwEEVzDEotOYZ2UNLJLSwdWgrP4Fg5Q+kRPIUzljQWFBQewGLNz/DXxTDKWHyS7P7/koHgRMS5vbj1qpBqW8nx0ATd7p3I03e9MGcdHniRCVk8GMY4R/QqQAtmN9SSJI1kIQqod5XkWSFt30lzasIcqrM0iOvlIg0KPZ+JAAwjJJvLSARNAjQ4gDR49SBoWFsAMhEATd2d4eFLoIbeXwDUZwMwBoCFDGvr+QrQUxih9hNgDRBCDH72RgC+fdu0ZsztJlB0DyCYKFwqfgFeMIp+BeDHgPKs9PTSN+tJsU+/AlBs+4enn4MRI9bvE8Q9ZEYANLgDBSPNVvSKiHsBH7d1o9IzbpoAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:04:43.1500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>MiniBoss.1 - Bomb Torizo</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA4AMAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAANlSURBVDhPZZNNTJt1HMcfGGx05aWllEKBpw8tT9un0NKHlkLfBm1ZSx2F8lI6oVjKgLFNYWODhAgyF0kIQ4yJB11iTGYWY/TiLh48eDAm3rzoxXj0oF6NMTEmHwvOGPVz/f1/39/b9y/8lypByMva5h/iUh+r0RxrI7MkPSEcBgsN52t+rqislJ89/R+iubr+84So/n61N8m0K86I1YfXLLM2ludw9Q6L8enve0X7Ql21Rqp4lvQ3FrW565uHxW2Wo1Oo9RI+QxfyRRNTSoxrg+PM94+SD6XZzC0zGUr9JOnNX1ZUVtjOsj1G22cfvnLCzvQS0jkdHp2Ew9RJ1jHMuOMSjkYLoqaJUFsPhWiGg5W7TPni6ATNI0EjVL2wMbrwx15uDae2jQFTLyHRS3eDSNDgoruxk5QcJCkFcGna8Oot3Lg8w43ULJdtfQhh0fXjTvY6E0qcUk+Yew6ZRLuLSIcHubEdW4MJv96Gr9FGoNFOoFlm0hPjrVu7PN45QSiFxllPLVBUZ/goX8dvTwSOvToG2/w4xU6UWhMxi8rB/CZvb9xnK1PCb7Rhu2BkoieGcD//Egv9GZYG8hwHdHx9U+CoX8Kus2I8ryVkVHgwt87To3f57uknfHryHofFHdz1Imq5M+GgcPvsZIq2lai+m0K7nxF7gIii0lKpJWZWWQpPcDOR4+XpFT5+7R2e7L5BRonwanEF4cVyYDE4TsBop9dgZcjmY8ilMmh2oDZJ9BmtjEh+JtzD3EkXuXtlng/2HzLXn2bWn0Bwt4pfzQQT+EQFb4eTblHGbehgbjDJ7fQ8EXMPG6kC25ll9nLXebS5T7y8fVXfSdIa4NQG+ow3+u3mWIG9mTViVpUh0cPjvUOOFreRa4woNS1YagwYaupIO4OkuwaQa5soJXNnAoKmqnr03mTp1zdXdikNZXnOGeb98omKkTHU2nIlcQBHeRxHk4XmOj3lv8LG6FWS3eG/BE6pP69NTbmHflkOZlGb7azGZsqOFBmzhSiEMyTKi80pCax1LWWzKWSdEabU4X8ETqmuODcs15u/GG5X8bba8dbb2LpSYH/uFuujBSbkKJ3lUexmiVn3CA+eX/u3wCkXqy6MKwYJi86Mp8HK8bUtXi97/7C4jr3KRKhdISK7uWR2s5ld4E+qB4FQmMjqIgAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:05:13.9700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ET.1 - Terminator</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADRSURBVDhPpZKxEcIwDEU9BiNkDEagpKSkzAiUlIxBSckIlIzjzuTr8nSycQIcxeNs+etFJE7pXIzNsC3iMKRVyNHnzbv90Q7uY1olZk1AoRXknCumR1UCl7AZTxcr5NvULOamiOrKKEufCa6Pp9ETMJFNNQvIu4AxTTCvIxKpQeuY6U7AmkbQ2G3GBTpcege9v0DeBUhaQUSyKKBv8TPG8UH1Nl9dJIV6ty+ijDdzE5H8An0ugLfAh3q9mfC3+2XdfrArIBQWfAH2nFfT/Cco6QUSHg5Pz/d4ggAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:05:40.2600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>SM.5 - Early Supers</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAMAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC1SURBVDhPrY/BDcMgEARdQp6U4RJcRkpwGX66BJeRslICP6JB2tOGAFGkPMZw3N6Al+UsQUprget6BPt+BOpDzPmwhjzotKIQULSD5/P2hnIgSVdAraGcc6WVfAh8WKEe3kdSaz4uYN22ew1wzgvYc+aZqWDGVADsRy/w3FDAwEjAfipgz0pYEg2DZ4YCBXp4/6uAG/ULfrv6/3sBRU9AAOiNXlDPvPiFkKoA3aqbHe8pn9JaXvuS19hjqEnpAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:06:34.0800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>RT.1 - Brinstar R-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAIAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAClSURBVDhPrZLLDYQwDERTBmVQAmVsCZTBkRIoY8vLLeCRnmWySlYRHB449niUj1Pai5imuYxAnzcvy0cF+/eIWhnEphED4sRiXTcl7N8DDX0yOI6vsCJxi6hxg5yzsCJxi6h5bwf1+XpEjRtgMmJA3/NnjIN0jZUXW6BRM5OIyQj0uQH8CP7k74sLLqjOW85qdV4f3DmnCe2dGRiL483fdvPMoKQTEuH7gOHIly4AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:06:47.8200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.10 - Brinstar R-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:06:56.6800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.15 - Brinstar R-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:07:05.8600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.20 - Early Supers</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:07:22.4200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>G.3 - Charge Beam</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAPgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADDSURBVDhPnZDBEYMgEEUpwzJSgmWkBMvI0RIsI+VxI3k4Hz8LTmZy+Aq7+55gSnsZsq7PonjtON4tracBDZFte9VoyOEv0UscBso516YL2FMX7JJOIJgIngk83ddV9K9LcA7fnOCXgPUFXHCd0QDhmMvyGARR0mB6LAAIsAQzyTQS+A90QZSo1no8osAlLprlVjATKdQHAUHCm1oUxVSYa+lekrDWadhHSPVOEH+OAzMxa3GdQFdwyOHYawI2/yTtJX0ASsktr+WkgoAAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:08:07.6600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>G.4 - Spazer</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAWAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADdSURBVDhPhZKxFcIwDEQ9DmMwBiVlSkagzAgZIyWjuTM5Jd8cIn4U92xJ/ifZz6XM7UfX661N07Mty9rIvR6l1fUjxVHjgARYaw1Y+wxvRKibOCjIYeVVD3jLC7xfdrAbZlixd3eDAA6TbjCC6d4NDu1jnxgAnxkwMvdngjCje4bdwE1QwKoB/jMYiis4rNXz8YA2JQ2iiR92Aw573sWZ089DzsEc66zWuIc2o4f0fY7jDXgMiiNYDdjTXeqwJwG1el5iSvZfVwD0bpjkN6LWr7AHpRe0EmcxQZlbeQNEXTWvuAnkXAAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:09:12.0200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Boss.1 - Kraid</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAACgQAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAOPSURBVDhPZZN9TNQFHId/zNXYtNliaBgvJ4KSQBDxJi9KeIDS8aKcCBNDXo+Xg0MO5EVeipfD406EA3yDiUQGdhAa0QuFRrqhba2JIIGAkUa4ikLFxnQ9HW69zT+ePz/P921fAfiHW7M3LHUXZLURsR6/yIQXiRPWUGBiT1m0HzUtMagOSyk8E4+9l4i1tst5NXz9v+ElfluYXzHQ/15gb7HmXs+KABo3e3OqMppyqZicjc5YCUakVIcTkOCJpWglL4st/i9YYuazK+7D/oV0mgfzlT6Xdscw6gRrFIIV9s8Yk1y/iy0xbrhlb8Euwu5pwej4iE20qcWEJn0rV1u0zKZ28JFgh1wwQyx2JK5uFzYeVqwL20i0zPtpwRL5p3PVMepADrh40bbch0wjS3YEOJHaEYdbug9OEgfEvms5fTbBUHFoxPa/4T95LCSqYppEYnMikzeRKNvMyfdlVPVlkNOZiETuS1FFCFN3zxIW7ImQeSihcuHBA+O/Ba199ZEh2uAxl2xfXrJZySueZkRWbGOrwodafQJd14vJKpVwQltCUUYAQt+l7BJFlaz64fzCstv3x1cFFQdetHBejbWjKVYbnscpxBbJfl8qupJQN8bh6r4Bd08RHafieTh+GGHw8oHuY+eSf49R7n5H3hTb6prh+WjNc8sQ2a1Cbpi5oTcNeYOUEwOZ6HqqDWfdj6x0G9w7ycRoJUK5ap928nvttM9OB0xeeJZ1ziY4+Zvjl+nF210JXPhWR+lbcTi9ZkZ4upSezhrebYjhj590lHTLECKVO5oDpM7zNiITTI2NcJU6oDRst3swD02vjMImJXvDgtge60Hrp9nkl0fx9SfZnL9aSHxbLIJnkf/l9UHWbIpzYV/JdiI0oTR/ruD8NwfJ00WilPvT361gcbaRx3d0zEyoKexM4o3qUM58qUQo1Se2q4/Gc6xlL+3XijF0xO4kL5wD7SjITGNQr4DFVuYmtXx4KZeI2p34lATRcC6V4eEyhKCs1wcHr3xAvkKMVOlHcWEWBcn+jA2pOCgLpUefxsVrpdR8LCel7U1kzXsYul72hKkbKoTE8hBU+RF0tBWRsieMHJWEO4bw3HQN9V8oiD4ehcRwhaN9CsZHKvlh7BALt45w96aGR9N1CLenNCz+eITJwSoGDM/D3HFujqrI0yfibWg1ShuOvj+b70YqmBlT8+uE9knwZ4Pg/lQNfwHGu2bGd0nT0QAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:10:37.5500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>G.5 - Varia Suit</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADUSURBVDhPpZHBEYMwDARdBmWkBMpICTxTQp4pgTJ4pjR+ilbxOTZ2ZpjhsYwt6RYbkpldIh7TdLN13YJ93y29vOFQB+1Bc9SLQAVYlmdIWL8fKVCPueQRrTuBmoSQBNtXIhEzQK8IONo8339hDwFiSSTS2zsBHAUM1RJ62nPVRjAKi+YkOUzmtAAk0TU6gSRFUEvyWhLNdwI+ZHMKp75z9P4JGGx+4yBML06ZJUXAYNzLt8C+DiuoviSdABSswzryca4IVFBYv2mE5sgUwRWGxfNY+gBInob7djntSwAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:10:41.4600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ET.2 - Warehouse E-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADRSURBVDhPpZKxEcIwDEU9BiNkDEagpKSkzAiUlIxBSckIlIzjzuTr8nSycQIcxeNs+etFJE7pXIzNsC3iMKRVyNHnzbv90Q7uY1olZk1AoRXknCumR1UCl7AZTxcr5NvULOamiOrKKEufCa6Pp9ETMJFNNQvIu4AxTTCvIxKpQeuY6U7AmkbQ2G3GBTpcege9v0DeBUhaQUSyKKBv8TPG8UH1Nl9dJIV6ty+ijDdzE5H8An0ugLfAh3q9mfC3+2XdfrArIBQWfAH2nFfT/Cco6QUSHg5Pz/d4ggAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:11:27.1200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ET.3 - Hi-Jump E-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADRSURBVDhPpZKxEcIwDEU9BiNkDEagpKSkzAiUlIxBSckIlIzjzuTr8nSycQIcxeNs+etFJE7pXIzNsC3iMKRVyNHnzbv90Q7uY1olZk1AoRXknCumR1UCl7AZTxcr5NvULOamiOrKKEufCa6Pp9ETMJFNNQvIu4AxTTCvIxKpQeuY6U7AmkbQ2G3GBTpcege9v0DeBUhaQUSyKKBv8TPG8UH1Nl9dJIV6ty+ijDdzE5H8An0ugLfAh3q9mfC3+2XdfrArIBQWfAH2nFfT/Cco6QUSHg5Pz/d4ggAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:12:07.9700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>G.6 - Hi-Jump Boots</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAALwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC0SURBVDhPjZDBEcIwDARdDmVRAmVQDk9K88/kNFkhH8oMjx1b1t1JyRjPldxvY1Vqr+uHxgXzNdb78RXoDl6LLSBD5kxDNUXvGACXAQg9xANU/wQQEiLbpAbw3gaILkQnhFlaNwIB1ayzElo3QjXVk62gNUM16R7mE0JbI0hACAHcwyydm4Qbu7rdgGasyXfaVKF6C/DGFWgUzNv2o3LqOdnZtAcZ8A8Sd++5gZMC+z+7ZqwPrMfocDOWHukAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:12:23.3300000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.25 - Hi-Jump E-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:12:36.4600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.30 - Cathedral</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:13:10.8700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.35 - Speedbooster Hall</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:14:04.7000000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>G.7 - Speedbooster</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAPQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADCSURBVDhPpZOxDQIxEASvBEog/JCQEggpg5CQElwCJVACpVACJTgz2pPW2jvbwYtgpffrZtZ++c1Ks/vl2p63R8/n9fbUWj1c6wwYsA4jp+O2K+RcgBfahgYzG7KdSw8lQbCCFcRcEADAYgZnkDAFPk+Bwhks30OAMTMIVo0zOAiwdSwyqMkwBWBdQJBtfNZ2hYOAR2CLwirIkn4E/QbITDSTLAVMFmVJF/AiZQGjIpWACTdxBmtUNAgo2RNyf/7OzX4VsBFPlRnsagAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:14:15.5500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.40 - Double Chamber</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:14:58.4600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>G.8 - Wave Beam</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAVQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADaSURBVDhPjZK9GYMwDEQ9SsqUlBkpI2QEypQZgTJlRqFkDDonZ3jkLH4+ivuEbN2TbJNSmys1l2uWXvdH7rtPZr2/PfPQDYuUlz0KJIyYlbt5HMc1JAIkmR2g4l+rAlAkn+JslEGd9c0UEbAZo/kI8E5NFRcAxRrRcwDcQexe7iAavDsAh6Bi1h7FHMMvUDmAXWEi6hgAWGcaz6lfAbyI3NfcrO/lDrxI0Q1RXlsB2HAzOR29XrECcH5MZyDlJiMEgxQhrunXnp/DIUdTIKb5v+cM2TLvKbU5fQG01jnHzXLWxwAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:15:11.3300000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>G.9 - Ice Beam</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAUAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADVSURBVDhPlZG7EcIwEAVVhkugBEKXQEgJhC6BkNAhJbgUQpdAGcoEzzN7PAmNGYI3snS3q49TupWvnM6XQlg7Ts8yL59ovtVoUICm61xyzmV5rFuTw8N4ryUtyChY36oDKO8t43ubsxsjAmQ/BcBqJn8JWsiDYPcNeCwBfhoXtJKAVaNZkvY6/IXdcAJESDwIfR4CilyDuQLgoFKdQAWHe4CnghUKQJKRnqwrcFhvwLv0JPSFwBsIIEJAH7UeAt/NT6RvX49dPcNhjJ0UmhFxHdZqQUkvGppm58xkvuwAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:16:27.6300000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>PB.5 - Alpha PBs</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAADgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACTSURBVDhPpZK7DYAwDEQzRkagZCRGYAzGoWS0dAZbnDicDxEpnhRdzg9HIojIEM9hexPjLIy/rwp4KO3B4Kwp0MIyBYOHfF4UoMRfTSkZdr5zSIqCY71KOuTWVkxAd12CbIMvgX8Cg7z5BIASy5CBogAbcJHp3gAS3sCLM8Hwf6AhJIA3AOhVBYwfYjLBX4phPxJOWAA/Jyi9z8cAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:18:01.0400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.45 - Alpha PBs</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:18:11.3100000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>PB.10 - Beta PBs</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAADgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACTSURBVDhPpZK7DYAwDEQzRkagZCRGYAzGoWS0dAZbnDicDxEpnhRdzg9HIojIEM9hexPjLIy/rwp4KO3B4Kwp0MIyBYOHfF4UoMRfTSkZdr5zSIqCY71KOuTWVkxAd12CbIMvgX8Cg7z5BIASy5CBogAbcJHp3gAS3sCLM8Hwf6AhJIA3AOhVBYwfYjLBX4phPxJOWAA/Jyi9z8cAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:18:38.7600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.50 - Lake</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:19:23.2700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.55 - WS Main Shaft</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:19:57.7400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Boss.2 - Phantoon</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAlgMAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAMbSURBVDhPARAD7/wAHh4AMjEAZ2Yqrapxg4FFdnQ1gX9Csq9yy8iElZNYeHY3dnQ2oJ1jlZNYREIJKCcAACYlAEVEDJiVXI2KT1JRGDQzBkxLGHx6PYeFSWdmKzY2CUA/C2ppLqajaG1rMDExAQA4NwBsajCPjU9NSxYrKwBEQw8rKwM3NgY9PAYuLQQ4Nwo7OwkvLgRzcTOPjVFIRw4AhYNHlJFTVFIaHx4AaGcwi41NYmUpaGwxX18nYGUofH1Bg4RFOzsQKysBfnw+kI1RAIeFSl9dIyEhAEtKHHl5PnNTMFkfEVc2GzcyCmEtGmAsFoBxRGprMCgoCTs6C3h2OwA6OQUkJAA4NwuQlVZxKyR+AB57ACCACihlCRtsBx92ACNaAAaEeklpazEgHwAyMQIAHh0AIyMDgIJGVk0gjws1chQhe1w3jIdMqolglHRPcC4pPQ0MTSMXgX9ETU8fGxoAACgnADY4CVE3EFoGCFoBDGhiLs/VhNjWh9XXh8DDeo2VUVckGHMAGE8bCUlEESkpAQAuLQA4Oww8CgBzAh52GSufp17V04Pt6tDp56vf3Im2uHKZPUSQAzFNAAI6KQMzNgcAMzIDQ0QSfHVCYw8SkRUuo6hjclowYz05npZj19WHur92oUlKeAAYb0wvZWcuMzMGAD8+CTg5DHBsNWYqHTwUBXN2OVIsFB8AAHxoOLu7eKaoZk5AGFkPD3FVLlVXIzY2BwAfHwMuLgt0eDtxVTNMAg48RxWCfEGCbj2vtW+jqWR8aDmFAylfFhiCiElJSBknJwgAQUAZX14rR0cai4ROTBoPPgIERDgRV1IifE40XEIfghIthAAjklFGcnk9Pj0TY2IuADQzDkdGEy4tCXh+QJFfRmcpGmQaG0srE1k0HnIWInUnJ3A1I4uIUVJRHzAwCUdHFQAcHABfXiQ5OBJNSxlrbS9xdjVwcDNkZCpWXB9naixxeDZrby9oZy0uLQhfXSk6OQwAKSkERkUVLSwEKioFMTAIRUUTPj0OLy4GMDAHNDMIRUQTPT0OKyoGJiUCQkEQNTQMgkjavT3h8lMAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:21:25.6000000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>SM.10 - WS East Super</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAMAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC1SURBVDhPrY/BDcMgEARdQp6U4RJcRkpwGX66BJeRslICP6JB2tOGAFGkPMZw3N6Al+UsQUprget6BPt+BOpDzPmwhjzotKIQULSD5/P2hnIgSVdAraGcc6WVfAh8WKEe3kdSaz4uYN22ew1wzgvYc+aZqWDGVADsRy/w3FDAwEjAfipgz0pYEg2DZ4YCBXp4/6uAG/ULfrv6/3sBRU9AAOiNXlDPvPiFkKoA3aqbHe8pn9JaXvuS19hjqEnpAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:21:54.2200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>SM.15 - WS West Super</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAMAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC1SURBVDhPrY/BDcMgEARdQp6U4RJcRkpwGX66BJeRslICP6JB2tOGAFGkPMZw3N6Al+UsQUprget6BPt+BOpDzPmwhjzotKIQULSD5/P2hnIgSVdAraGcc6WVfAh8WKEe3kdSaz4uYN22ew1wzgvYc+aZqWDGVADsRy/w3FDAwEjAfipgz0pYEg2DZ4YCBXp4/6uAG/ULfrv6/3sBRU9AAOiNXlDPvPiFkKoA3aqbHe8pn9JaXvuS19hjqEnpAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:22:16.2300000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ET.4 - WS E-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADRSURBVDhPpZKxEcIwDEU9BiNkDEagpKSkzAiUlIxBSckIlIzjzuTr8nSycQIcxeNs+etFJE7pXIzNsC3iMKRVyNHnzbv90Q7uY1olZk1AoRXknCumR1UCl7AZTxcr5NvULOamiOrKKEufCa6Pp9ETMJFNNQvIu4AxTTCvIxKpQeuY6U7AmkbQ2G3GBTpcege9v0DeBUhaQUSyKKBv8TPG8UH1Nl9dJIV6ty+ijDdzE5H8An0ugLfAh3q9mfC3+2XdfrArIBQWfAH2nFfT/Cco6QUSHg5Pz/d4ggAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:23:03.1800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.60 - Assembly Line</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:24:14.5400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.65 - West Ocean (Sky)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:24:46.7900000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.70 - West Ocean (Maze)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:24:58.0200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.75 - Bowling Alley</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:26:15.8600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>RT.2 - WS Reserve Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAIAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAClSURBVDhPrZLLDYQwDERTBmVQAmVsCZTBkRIoY8vLLeCRnmWySlYRHB449niUj1Pai5imuYxAnzcvy0cF+/eIWhnEphED4sRiXTcl7N8DDX0yOI6vsCJxi6hxg5yzsCJxi6h5bwf1+XpEjRtgMmJA3/NnjIN0jZUXW6BRM5OIyQj0uQH8CP7k74sLLqjOW85qdV4f3DmnCe2dGRiL483fdvPMoKQTEuH7gOHIly4AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:26:28.1800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>G.10 - Gravity Suit</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAPAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALBSURBVDhPYwACVmYWQW4+CX4hbRkFG23DABeP8MiIUP9AN1MrQ0U1BVEJoCwPOxcjAyNINRDwcnDryqraahgmO3o3xWYv6Zq2ad2WNfOWT8qtyfcK9zO2MVTQlBOWZGSEaVBWUIoODFMQlZESktaTlUxxECsJEM3zFPXQFZcWkpYRkrQzsfJz92ZiYoJq8PHxWb9+gygfm4ceY02MzN310b/ORL8/GLu62S7YkklDgjEyMnL58uXMzMwg1eLi4vn5+YVFxcpiLD3hDKenGrw8P+/n/fmfbi66uTFnTT6zjy6DuYVFd3e3paUlyBJvb++NGzeys7ML8zDEmDOsyJe5sy765+not/tj9/fY1Xkz6ckwMDEyREdHL1u2DGSJl5fX+vXr2djYFEUYusIYTk42eHF2zs/7cz/dWHBjQ/aqPGY/A5AGoKuWLFmCogFiw8oCmTvrY36eiXl7IO5Ar3092AZg8CA0AH28adMmqA2hQBv0X5yd/fPe7E/X591Yn7Uyl9lPH2RDVFQU1N96enpADzk4OorwMsdZMKwulL27Ie7n2bi3BxMO9Tk0+jLpSjPIysqWlpZmZGRAQ9bX13fdho0qYmwNQQybugxeX5j399G8b3cWnlubMzmF2UubISIycsWKFSwsLCDVQGBqbNJQVSvMK8jLyWcgx9sXzbW6nHNBNmesJQ8fFx8fJ6+Xi3tJQRE0HoCAj5NHX17DUlXPz9g2wdmvJDajuqSqIqso0zcy1NLZScfESFFLXlQKkTQ42dhlhCX05FRSnX2mpJfsmbbw6qETp9ZtX1rRWhUY66JrIiciKcIniNDAxsIqyM2vJCYdae3SHp2+pLZz/8LVmyfOmZRelO8VYq6iLcwjwMOBlFr5uXgMFTVtNQwyXPymZ5btn7n0xtEzZzfuWlHVXhMc52NkZaykpSgmA7KBgQEAjDHksXUxlKIAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:26:45.8200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.80 - West Ocean (Water)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:27:07.1000000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>PB.15 - Crateria PBs</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAADgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACTSURBVDhPpZK7DYAwDEQzRkagZCRGYAzGoWS0dAZbnDicDxEpnhRdzg9HIojIEM9hexPjLIy/rwp4KO3B4Kwp0MIyBYOHfF4UoMRfTSkZdr5zSIqCY71KOuTWVkxAd12CbIMvgX8Cg7z5BIASy5CBogAbcJHp3gAS3sCLM8Hwf6AhJIA3AOhVBYwfYjLBX4phPxJOWAA/Jyi9z8cAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:27:48.8200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ET.5 - Gauntlet E-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADRSURBVDhPpZKxEcIwDEU9BiNkDEagpKSkzAiUlIxBSckIlIzjzuTr8nSycQIcxeNs+etFJE7pXIzNsC3iMKRVyNHnzbv90Q7uY1olZk1AoRXknCumR1UCl7AZTxcr5NvULOamiOrKKEufCa6Pp9ETMJFNNQvIu4AxTTCvIxKpQeuY6U7AmkbQ2G3GBTpcege9v0DeBUhaQUSyKKBv8TPG8UH1Nl9dJIV6ty+ijDdzE5H8An0ugLfAh3q9mfC3+2XdfrArIBQWfAH2nFfT/Cco6QUSHg5Pz/d4ggAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:28:27.6200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.85 - Green Pirates Shaft</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:28:46.0900000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.90 - Green Pirates Shaft</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:28:54.0800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>SM.20 - Etecoon Supers</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAMAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC1SURBVDhPrY/BDcMgEARdQp6U4RJcRkpwGX66BJeRslICP6JB2tOGAFGkPMZw3N6Al+UsQUprget6BPt+BOpDzPmwhjzotKIQULSD5/P2hnIgSVdAraGcc6WVfAh8WKEe3kdSaz4uYN22ew1wzgvYc+aZqWDGVADsRy/w3FDAwEjAfipgz0pYEg2DZ4YCBXp4/6uAG/ULfrv6/3sBRU9AAOiNXlDPvPiFkKoA3aqbHe8pn9JaXvuS19hjqEnpAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:29:52.2800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ET.6 - Etecoon E-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADRSURBVDhPpZKxEcIwDEU9BiNkDEagpKSkzAiUlIxBSckIlIzjzuTr8nSycQIcxeNs+etFJE7pXIzNsC3iMKRVyNHnzbv90Q7uY1olZk1AoRXknCumR1UCl7AZTxcr5NvULOamiOrKKEufCa6Pp9ETMJFNNQvIu4AxTTCvIxKpQeuY6U7AmkbQ2G3GBTpcege9v0DeBUhaQUSyKKBv8TPG8UH1Nl9dJIV6ty+ijDdzE5H8An0ugLfAh3q9mfC3+2XdfrArIBQWfAH2nFfT/Cco6QUSHg5Pz/d4ggAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:30:02.6000000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>PB.20 - Etecoon</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAADgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACTSURBVDhPpZK7DYAwDEQzRkagZCRGYAzGoWS0dAZbnDicDxEpnhRdzg9HIojIEM9hexPjLIy/rwp4KO3B4Kwp0MIyBYOHfF4UoMRfTSkZdr5zSIqCY71KOuTWVkxAd12CbIMvgX8Cg7z5BIASy5CBogAbcJHp3gAS3sCLM8Hwf6AhJIA3AOhVBYwfYjLBX4phPxJOWAA/Jyi9z8cAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:30:27.0600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.95 - Big Pink (MI)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:31:01.0600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>PB.25 - Pink Brinstar PBs</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAADgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACTSURBVDhPpZK7DYAwDEQzRkagZCRGYAzGoWS0dAZbnDicDxEpnhRdzg9HIojIEM9hexPjLIy/rwp4KO3B4Kwp0MIyBYOHfF4UoMRfTSkZdr5zSIqCY71KOuTWVkxAd12CbIMvgX8Cg7z5BIASy5CBogAbcJHp3gAS3sCLM8Hwf6AhJIA3AOhVBYwfYjLBX4phPxJOWAA/Jyi9z8cAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:31:15.0700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ET.7 - Right of Mission Impossible</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADRSURBVDhPpZKxEcIwDEU9BiNkDEagpKSkzAiUlIxBSckIlIzjzuTr8nSycQIcxeNs+etFJE7pXIzNsC3iMKRVyNHnzbv90Q7uY1olZk1AoRXknCumR1UCl7AZTxcr5NvULOamiOrKKEufCa6Pp9ETMJFNNQvIu4AxTTCvIxKpQeuY6U7AmkbQ2G3GBTpcege9v0DeBUhaQUSyKKBv8TPG8UH1Nl9dJIV6ty+ijDdzE5H8An0ugLfAh3q9mfC3+2XdfrArIBQWfAH2nFfT/Cco6QUSHg5Pz/d4ggAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:31:43.1600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>SM.25 - Spore Spawn Supers</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAMAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC1SURBVDhPrY/BDcMgEARdQp6U4RJcRkpwGX66BJeRslICP6JB2tOGAFGkPMZw3N6Al+UsQUprget6BPt+BOpDzPmwhjzotKIQULSD5/P2hnIgSVdAraGcc6WVfAh8WKEe3kdSaz4uYN22ew1wzgvYc+aZqWDGVADsRy/w3FDAwEjAfipgz0pYEg2DZ4YCBXp4/6uAG/ULfrv6/3sBRU9AAOiNXlDPvPiFkKoA3aqbHe8pn9JaXvuS19hjqEnpAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:32:16.8400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.100 - Big Pink</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:32:37.7800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ET.8 - Waterway E-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADRSURBVDhPpZKxEcIwDEU9BiNkDEagpKSkzAiUlIxBSckIlIzjzuTr8nSycQIcxeNs+etFJE7pXIzNsC3iMKRVyNHnzbv90Q7uY1olZk1AoRXknCumR1UCl7AZTxcr5NvULOamiOrKKEufCa6Pp9ETMJFNNQvIu4AxTTCvIxKpQeuY6U7AmkbQ2G3GBTpcege9v0DeBUhaQUSyKKBv8TPG8UH1Nl9dJIV6ty+ijDdzE5H8An0ugLfAh3q9mfC3+2XdfrArIBQWfAH2nFfT/Cco6QUSHg5Pz/d4ggAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:33:00.9800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.105 - Green Rolling Hills</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:33:33.3300000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.110 - Main Street</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:34:42.4900000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ET.9 - Momma Turtle</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADRSURBVDhPpZKxEcIwDEU9BiNkDEagpKSkzAiUlIxBSckIlIzjzuTr8nSycQIcxeNs+etFJE7pXIzNsC3iMKRVyNHnzbv90Q7uY1olZk1AoRXknCumR1UCl7AZTxcr5NvULOamiOrKKEufCa6Pp9ETMJFNNQvIu4AxTTCvIxKpQeuY6U7AmkbQ2G3GBTpcege9v0DeBUhaQUSyKKBv8TPG8UH1Nl9dJIV6ty+ijDdzE5H8An0ugLfAh3q9mfC3+2XdfrArIBQWfAH2nFfT/Cco6QUSHg5Pz/d4ggAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:35:12.3800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.115 - Momma Turtle</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:35:20.6700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>SM.30 - Main Street</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAMAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC1SURBVDhPrY/BDcMgEARdQp6U4RJcRkpwGX66BJeRslICP6JB2tOGAFGkPMZw3N6Al+UsQUprget6BPt+BOpDzPmwhjzotKIQULSD5/P2hnIgSVdAraGcc6WVfAh8WKEe3kdSaz4uYN22ew1wzgvYc+aZqWDGVADsRy/w3FDAwEjAfipgz0pYEg2DZ4YCBXp4/6uAG/ULfrv6/3sBRU9AAOiNXlDPvPiFkKoA3aqbHe8pn9JaXvuS19hjqEnpAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:35:55.0600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.120 - Pseudo Plasma Spark</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:36:25.2500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.125 - Watering Hole</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:36:52.5400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>SM.35 - Watering Hole</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAMAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC1SURBVDhPrY/BDcMgEARdQp6U4RJcRkpwGX66BJeRslICP6JB2tOGAFGkPMZw3N6Al+UsQUprget6BPt+BOpDzPmwhjzotKIQULSD5/P2hnIgSVdAraGcc6WVfAh8WKEe3kdSaz4uYN22ew1wzgvYc+aZqWDGVADsRy/w3FDAwEjAfipgz0pYEg2DZ4YCBXp4/6uAG/ULfrv6/3sBRU9AAOiNXlDPvPiFkKoA3aqbHe8pn9JaXvuS19hjqEnpAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:37:00.1600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>MiniBoss.2 - Botwoon</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATQMAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALSSURBVDhPFdJLiBxFGAfwrx/T3dXd9epH9aOmp+fRMzszYePs7qzZ2UTW3ZlIVliUJC6uIuJJRYOehBUELz5OHoSwMQQSYZEQMMGAggRDDh48KRJI0MjGm5dcPHuxBupSh6/41/f/weJkRDJWI5bFHPAMzTNNYolmagdIc00dO+A7dkidkHZHfdFOQfRyg9lxmYxOrvgpQzGmeUBSVmOOE3nNxa7FsZ9GxaATNROccQBPB9fQXF32y/ZK3wpdL8KANHUMaiUdidPIFcGxybJOLfANcP2aRgzwNXXRma1SgaMFRezG87EatS2GSJ5kg7aXs0BFes42J8gcMnOQeJlnZglh2EnrwhMEHCCNOK4KU1DcSr2Cia6E73Dwc9q6TemNRvoZQQf1/KCo9uN8xrBEeswdhIxhQ0zHx22uW9yGh0n479Ly7TI7qOOvJbm0IQ736j/uLHzblLey/HpTHC6Uv0437m1uPs0DzTHgj/XqyUubnzSTL9Lo84Kfe5Nc/PvZjz6tbnazo6Vjj55fvb83u9ZLrp+oToXcVJ/86Zn81qS6QNBXNDjMordXotd26Idnq6vjzr3d9aP9tX8+WPrrreO/v7u9JgO1D/jvvXMPX5y9b8CXNfRDXn4/O3l5deHu7tbd9cHj3cnR673fzss7Lw8+Pj0U3FItwTtV60JLvuI5+0RcCRq/TGd/7rzwYDr7ptd9I/RPJ7hPrAzX0owTieViG8AEW4cMWaN2OQrIGRvtedE2DwMV14K4U5eDtkEdL2GqOD9jQIuIJ2phANwCrqbnT8wVMUv3DBS6OKFKl66MYUv3TZhsb3RXhnbou4KCq6mmTWqHpWgtVrJfX90a8zJUtAzPzDtSoYR8UPr1IO23lrcmWAa+5LQe2pGLBIr7vDHOjLCmdIgyZTKce5k7U6R8M+0VxbClhDqhB64OCMppMn61p/say8Ph2lNG4Bjc/h9voHMR4vkSKAAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:38:05.9500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.130 - The Precious</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:38:37.2100000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Boss.3 - Draygon</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA2QMAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAANeSURBVDhPbZPbTxt0FMd/0Da0chEo91tLCy3QUkoppbRcWspK11Ja7FhxXAqUq3RABuuqIdvQXSKGActM5uJMTNyDiYkxMXtZon+A0USNbz755H/gePr4Y8aHGR9Ofg+/nO8553O+R2SfrrBxkiSy6ya042Zg2YJztpmRd7pevYGrNpxJE/aEgY5EDYZoKQVtgqJuQblXINKHk8zdDRO55mV810vshhfHlWZ0wVIMFyswTVTSMlaNNd5EuVtFmUNFgUGBqlWg1EkB33onwS0njhkjnnQ71z9dYCLrkcllKI0ClT4PdbtAbcpH1AgaByroCOkxBxup8mgQ9mk9VcMa/OtWTr7JkLo/jvVyPVqX/KyXFRpku7Z8FC0ChayoC5fQcrFSjmSk+20dInbDT+YozJMXOdKHUYxhLQq9THIoGHPVcyluZe7aMJH+JpSWPIrtCsrsGnSDVTQHqhFT+6M8fXGd3SeztMVryG8SFPap2J5L8iiT4dsPb/HJySrbM4PYnCWUdKnxLzsxjtaR2Pchpm/7WTmKEc26KZeJSnMeqelenp9+wI+nj/nph0O+PMqSXnRj6SiiZriQuoFSRtZ6uPJ+CGG5VIcrZZQrqkVz3qJbQW4zxc8fn/DZ5ztMrLvYeBRleaILrU7Nm91vUDdYRuLdAPGsH3FOVmGWlGXlAklb06qUEHXcPFjD6W/CGjJxec+DulVBoVlNbX8xY3Jr8dwQsewAIrTo+9o20vndOe2mC6UUtasQkkOFX427sVjuWkltQyGekE522UC5Q8PgcicX1vrwr7gQgHh5dqZY2ls4Nseq//CumpnM+rj64C2m9kN0TxlpDlYwtN6BMVSJJaZj416KkSWPZKH9R+DfWM4tfGQIaWkLN+JImJiRkIaXHAQ3++ibbX9lqNG1XnriXTR6GuSo+tcFfvntV6M9bPrdJqsMLVrQj5UR3fMykLZKj0xJu/dLM+WhktyK5ZgWd/nrAufx7Ps7D2be6+f+sxkmMz2kD0aJZVzM3g5inzdQLE3WK+9g3ifIRKRT/yvw8IuDrZV7Q38u3fRz/NUqkW074zt9cucB2gJaDFJgKyq4mxHk5v9H4OXZX0pHyPHclewgIU88+zjJ+mkSraeIgF1wKyU4zgke7gvubAr+BkZH09Oruin2AAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:38:38.1800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>G.11 - Space Jump</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAARgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADLSURBVDhPrZHBDcJADARdBiVACZRAC7TAiycdUAAt0AB/2kgzPIzXylq2k0Mg8djc3XpnL1HkeRaF5Kryi4LDQ1+q+viuyPOWBeN5mDQ+FWWQOZ/FkIN5yKIAM2yKS3hDBFbAcp4z5KKAgQin23oJ1kUBxCHWXpBnmSkF+ZZRAZSZUgCVkqRVGFoYpl4yhKFu4JWxEsowZ0XduB9u/t3dh4dZ9+vBdNoePThdJsUewh4e9j1fDyZCLMnwsGC/2SnUYf+Fpl7C/B8KVN4y7jDf7LVBDwAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:39:41.8400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ET.10 - Botwoon E-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADRSURBVDhPpZKxEcIwDEU9BiNkDEagpKSkzAiUlIxBSckIlIzjzuTr8nSycQIcxeNs+etFJE7pXIzNsC3iMKRVyNHnzbv90Q7uY1olZk1AoRXknCumR1UCl7AZTxcr5NvULOamiOrKKEufCa6Pp9ETMJFNNQvIu4AxTTCvIxKpQeuY6U7AmkbQ2G3GBTpcege9v0DeBUhaQUSyKKBv8TPG8UH1Nl9dJIV6ty+ijDdzE5H8An0ugLfAh3q9mfC3+2XdfrArIBQWfAH2nFfT/Cco6QUSHg5Pz/d4ggAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:40:26.4900000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.135 - East Sand Hole</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:41:06.2200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>PB.30 - East Sand Hole</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAADgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACTSURBVDhPpZK7DYAwDEQzRkagZCRGYAzGoWS0dAZbnDicDxEpnhRdzg9HIojIEM9hexPjLIy/rwp4KO3B4Kwp0MIyBYOHfF4UoMRfTSkZdr5zSIqCY71KOuTWVkxAd12CbIMvgX8Cg7z5BIASy5CBogAbcJHp3gAS3sCLM8Hwf6AhJIA3AOhVBYwfYjLBX4phPxJOWAA/Jyi9z8cAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:41:17.2300000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>G.12 - Spring Ball</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADASURBVDhPnZCxFcIwDEQ1BiMkIzACK9BSUlGyAQOwAgvQZ40sQ6FwhiMnRxheiv9CpLtvB3N3s0vk0JnX1Bn0SrcWsDCcZjJJKtCy32cyyVdBKD+e20ryvwBlskpAyfv3T8Gx23++M0ikDJBbCDDcbvqyUAnhDHvkkA8CDsfzGCQK5tjzsCCgGdx21wLC+A/w5IwZ5BcCmAmDiu5TAYOrb6CnMKjoLhVQwtMAbqDvLDcFrRvg2RSoRG9Ql8FL4DYBMy0f0OZXBO4AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:42:36.6200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>G.13 - Plasma Beam</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAUwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADYSURBVDhPfZCxEcIwEAQdEhK6BTqAEMqgBUd0QQ0MqdshJKEEihCc7NWcfh6CG/t1dyvND8O1pNqNU5n2c2Eeb4dyfm2bNFePgIvy411qiPI33dQgWfF+edayZp0rXGFrEdjytTIlQBmg6WgAwl6OAL/V1Z6N9HwEwHfg5bqDWHLJE8AhXVmehyXdmgF+iqCKLDFC8ZFm+ctiN6flZyVGAEGH4SvbPYcyQcEJCyJ1ZfWysv6leKOX8TuAG3F2uL6oATKQnzkApYAoglKE/AUQ8MUBqMWaK8MHzm4NVa+uGNYAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:43:49.7500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.140 - Aqueduct</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:45:13.0700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>SM.40 - Aqueduct</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAMAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC1SURBVDhPrY/BDcMgEARdQp6U4RJcRkpwGX66BJeRslICP6JB2tOGAFGkPMZw3N6Al+UsQUprget6BPt+BOpDzPmwhjzotKIQULSD5/P2hnIgSVdAraGcc6WVfAh8WKEe3kdSaz4uYN22ew1wzgvYc+aZqWDGVADsRy/w3FDAwEjAfipgz0pYEg2DZ4YCBXp4/6uAG/ULfrv6/3sBRU9AAOiNXlDPvPiFkKoA3aqbHe8pn9JaXvuS19hjqEnpAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:45:21.3500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>RT.3 - West Sand Hole</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAIAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAClSURBVDhPrZLLDYQwDERTBmVQAmVsCZTBkRIoY8vLLeCRnmWySlYRHB449niUj1Pai5imuYxAnzcvy0cF+/eIWhnEphED4sRiXTcl7N8DDX0yOI6vsCJxi6hxg5yzsCJxi6h5bwf1+XpEjRtgMmJA3/NnjIN0jZUXW6BRM5OIyQj0uQH8CP7k74sLLqjOW85qdV4f3DmnCe2dGRiL483fdvPMoKQTEuH7gOHIly4AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:45:52.8700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.145 - West Sand Hole</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:46:01</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.150 - Kraid Missiles</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:47:00.6400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.155 - Crumble Shaft</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:47:54.1300000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.160 - Golden Torizo</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:49:39.0700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>SM.45 - Golden Torizo</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAMAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC1SURBVDhPrY/BDcMgEARdQp6U4RJcRkpwGX66BJeRslICP6JB2tOGAFGkPMZw3N6Al+UsQUprget6BPt+BOpDzPmwhjzotKIQULSD5/P2hnIgSVdAraGcc6WVfAh8WKEe3kdSaz4uYN22ew1wzgvYc+aZqWDGVADsRy/w3FDAwEjAfipgz0pYEg2DZ4YCBXp4/6uAG/ULfrv6/3sBRU9AAOiNXlDPvPiFkKoA3aqbHe8pn9JaXvuS19hjqEnpAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:50:04.7000000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>G.14 - Screw Attack</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAQgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADHSURBVDhPnZG9EcIwDEY9Ci0lY9CyBSVHyQIMwQSU9Fkli1AYSefnk2TzcxRfnJP9nhWllGudZrfZVjLb19Qqay4CnfeHHi+qD+GeQup7FgCu98VyO156FLKIgPNBAMxBJB7UlU6CgBYD0LKc5JyDySCg9Q4LlOFhHiqg0L+zgcTDBGYQWFGAIEgdvBXoxq8SGBP4GfDLPkkQDENEAswsAOmABIGXBDiB/vZBYIUGz8AM23kv+AZm2BgE3Ow3gWYgMYE+/k8tLyuvQ6dmgtVaAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:50:19.4500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.165 - Mickey Mouse</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:51:02.8900000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>PB.35 - Wasteland PBs</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAADgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACTSURBVDhPpZK7DYAwDEQzRkagZCRGYAzGoWS0dAZbnDicDxEpnhRdzg9HIojIEM9hexPjLIy/rwp4KO3B4Kwp0MIyBYOHfF4UoMRfTSkZdr5zSIqCY71KOuTWVkxAd12CbIMvgX8Cg7z5BIASy5CBogAbcJHp3gAS3sCLM8Hwf6AhJIA3AOhVBYwfYjLBX4phPxJOWAA/Jyi9z8cAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:51:59.9400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Boss.4 - Ridley</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAcQMAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAL2SURBVDhPlZFbSJNxGIe/xXKecpo5dU1tts9Pp23T2tzmNk9zOs3pqlm6aWqKRTbdwQMzTTyUmgZlkaXYATrQRRkkZdHBREHocBEE4UWrLrrLxFSk5NeiDKTddPHAe/F/nj8vLwHgv5ibnaOP3rirfvlsKuacvdXm9tEqkw/G5e2HHUenJya3v556ETfU0V892NTdb9EaPwzZm50Tg5dm3Iqr9Ns7B6SB5ApJY8EQm7rcW26bPW6qxuXGXlxq6EFdbol7cZXrXf0XhmytSOYkYCdPgestPTBrjLBoS1Cvq0BfRYN7cZUb3QPtr6/dwvTlm7jq6MXN1jNw6KvQbrTiWIEZJbKd7sVfOGfes684ukc6Sy0okutgyS3ChZoW9B10oFyRD8o7GBzC1728tLDkNT06nmDLq/iUyWJgQEMgbh2B0PUB2MYMgySIBI+xCeqIePeBJ3ceKIZtx94V78iZf94WA2cbgXi6F0JpTMjY0ShSqpHOjUc2X/qvvLiw6HGquvn8xfoTKzWxoRg1ESglo6CK3AHKl4WEIC7KUnKwPZALWRj145+A63f5cF3bJ0v6btRyfSDYwIFBno39Si2EfhHIi1O6riKAXpQEo0o7vkZ27e5x1tp6/vTBhu8SPzYyuUIoOEKYkjXQiRIhDuTBnLUXsmAKpWrtl76WjiNrAo9v31d0FZs/7xNr4E/QkS9UolFfiZyYRIhYHIgCIpDEjgXfazOYxLqVp2OPpH/lb3Pz3k37qq8cStcjnOaPXQIVeiut0PIlEPlyQTFcZ6P5gqQHQcwkEUwwllOiE179Dbx9+Ya0ZhbOJrH50ERK0Gkyoza3EGlbhdDxksFlBCCc7gc9lQrJJgpRG4NQlWb4s/vikufEyFhik6H8Y7Q3GyfLbKjVFSKdFECzRQK+DxshhCf2xKphFGdBHMJD094yKMPjfgce3rqX1mU67KzM0H81CDJgzzdBS0lQ4Jop7xCwaT5I4Yhgzd4PVbgAB5LzkUVKkBklxU/jBzixqgH3OwAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:53:22.7600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ET.11 - Ridley E-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADRSURBVDhPpZKxEcIwDEU9BiNkDEagpKSkzAiUlIxBSckIlIzjzuTr8nSycQIcxeNs+etFJE7pXIzNsC3iMKRVyNHnzbv90Q7uY1olZk1AoRXknCumR1UCl7AZTxcr5NvULOamiOrKKEufCa6Pp9ETMJFNNQvIu4AxTTCvIxKpQeuY6U7AmkbQ2G3GBTpcege9v0DeBUhaQUSyKKBv8TPG8UH1Nl9dJIV6ty+ijDdzE5H8An0ugLfAh3q9mfC3+2XdfrArIBQWfAH2nFfT/Cco6QUSHg5Pz/d4ggAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:53:27.0600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ET.12 - Fireflea E-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADRSURBVDhPpZKxEcIwDEU9BiNkDEagpKSkzAiUlIxBSckIlIzjzuTr8nSycQIcxeNs+etFJE7pXIzNsC3iMKRVyNHnzbv90Q7uY1olZk1AoRXknCumR1UCl7AZTxcr5NvULOamiOrKKEufCa6Pp9ETMJFNNQvIu4AxTTCvIxKpQeuY6U7AmkbQ2G3GBTpcege9v0DeBUhaQUSyKKBv8TPG8UH1Nl9dJIV6ty+ijDdzE5H8An0ugLfAh3q9mfC3+2XdfrArIBQWfAH2nFfT/Cco6QUSHg5Pz/d4ggAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:54:41.0900000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.170 - LN Spring Ball Maze</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:55:08.7400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>PB.40 - LN Escape PBs</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAADgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACTSURBVDhPpZK7DYAwDEQzRkagZCRGYAzGoWS0dAZbnDicDxEpnhRdzg9HIojIEM9hexPjLIy/rwp4KO3B4Kwp0MIyBYOHfF4UoMRfTSkZdr5zSIqCY71KOuTWVkxAd12CbIMvgX8Cg7z5BIASy5CBogAbcJHp3gAS3sCLM8Hwf6AhJIA3AOhVBYwfYjLBX4phPxJOWAA/Jyi9z8cAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:55:27.6500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.175 - Three Muskateers</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:55:56.8800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.180 - Green Bubble Missiles</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:56:32.6000000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>RT.4 - Norfair R-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAIAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAClSURBVDhPrZLLDYQwDERTBmVQAmVsCZTBkRIoY8vLLeCRnmWySlYRHB449niUj1Pai5imuYxAnzcvy0cF+/eIWhnEphED4sRiXTcl7N8DDX0yOI6vsCJxi6hxg5yzsCJxi6h5bwf1+XpEjRtgMmJA3/NnjIN0jZUXW6BRM5OIyQj0uQH8CP7k74sLLqjOW85qdV4f3DmnCe2dGRiL483fdvPMoKQTEuH7gOHIly4AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:56:47</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.185 - Norfair R-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:56:54.6600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.190 - Bubble Mountain</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:57:20.2400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>MiniBoss.3 - Enter Crocomire</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAugIAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAI/SURBVDhPY4AAaQ4WGwEOOz4OFQ5WqBAewMnE5CvMkyHB3yDNt0BTYKG2QIESt5cghxwzMwtUCRJgZGRQ4+YIFOVNEOWfICdwxER0sQH/NE2+1ZpCp2zF9lkJlkpzG/KyswDVQQCQZSPAHSLKEyrGY8nPYcLFnu9uFmqlGyvIudSYd7mlwHlzsa2aQtPleKIEuI142IAaGFS52c35ORwEOK0EuaTZWfL8LTK8LazFeJoi3Bw15EvEuM+rCn2yEP4XJL5PX5gBZhPIbUJsLPJcbKrcHILMjP4mqo+3zJlaFGfHw5ojyRMuzLlYh/e8nhBUNRwwMzLIsrO6C/DEKYvVBFq76Cg5qIjtnFpXnRBgwsvRJc0PVYcGNHk4ZskLZgpxAuWTXE0eb5m9q6fAUJLPRoATqgINcLIwRYjyLJYX2agg0KMmWepqEm2tpiXIVhxoB1WBCQTYmOPFeBbJC17SE1qlzGfFzaYvwrWwLBoqDQeMjEyszIyQQOdnZbYU4EyQ4J2hJbxYQWC+PF+ThwlYFQzwsjFURMtF+umyw2IYqFeQhTVQhHenkuA9FYHZCgJQCQgAqpuUK3B0mayGAjy0QcBHiOuGhegHO6GtcqgagICJgaEtivnETI6GBE57E450H45sN5YYce5ndiL/g0UOqGAEK9D1CoLM8Y5s0zPZVjVxdsVzBtsphAnz3lcT/GUjslhFEKaOgYGLmYmbmYmdiZGZgZGFgQlolYOsYLCUUJeK6FRZwRsqAh/UBTLEeQBH0mr6ikDlrgAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:57:58.9700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ET.13 - Crocomire E-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADRSURBVDhPpZKxEcIwDEU9BiNkDEagpKSkzAiUlIxBSckIlIzjzuTr8nSycQIcxeNs+etFJE7pXIzNsC3iMKRVyNHnzbv90Q7uY1olZk1AoRXknCumR1UCl7AZTxcr5NvULOamiOrKKEufCa6Pp9ETMJFNNQvIu4AxTTCvIxKpQeuY6U7AmkbQ2G3GBTpcege9v0DeBUhaQUSyKKBv8TPG8UH1Nl9dJIV6ty+ijDdzE5H8An0ugLfAh3q9mfC3+2XdfrArIBQWfAH2nFfT/Cco6QUSHg5Pz/d4ggAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:58:23.6600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>PB.45 - Post Croc PBs</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAADgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACTSURBVDhPpZK7DYAwDEQzRkagZCRGYAzGoWS0dAZbnDicDxEpnhRdzg9HIojIEM9hexPjLIy/rwp4KO3B4Kwp0MIyBYOHfF4UoMRfTSkZdr5zSIqCY71KOuTWVkxAd12CbIMvgX8Cg7z5BIASy5CBogAbcJHp3gAS3sCLM8Hwf6AhJIA3AOhVBYwfYjLBX4phPxJOWAA/Jyi9z8cAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:59:13.2400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>G.15 - Grapple Beam</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADSSURBVDhPpZCxEQIxDARVBiV8HZRARkxIxNABEQXQBgn5V0BOMwTC5/nTnPzGwwzB/cu681q22dVDm2nr/nbHX/tDrw3s9sevAHgrCM378+Xnyy2ZqNs1MshGXw0F4N9Ce7kAYLQ23Othna6BD+8Gk2/QEzwCUCcAx1WITsDNELIJgACDKgWo2EuAIC7SDRFexAnrWg0KJkLtu/Sy68Yinkz1MlUsNIR6NEECsvCHpRNHQjYB0DxM5vPJqllVTg+xV4QMsthTAbr5V0CCFPsPuX0ANUEE1lcLXGwAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>00:59:48.0800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.195 - Post Croc Jump</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>01:00:01.9500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.200 - Post Croc Missiles</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>01:00:24.3600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.205 - Crocomire Escape</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>01:01:11.9800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>G.16 - X-Ray Scope</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAKQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACuSURBVDhPpY6xDQIxEARdAuGHpGRQwlMCIR2gb4OAGl6klEAVlESweE8+yf472zwEI9lr39yGcEOdERC8N8UNSRzcbE9CU+KGJA7t9pOwXpC2P14Qmi3cMAm0QbOFCbJhbcBztYUJkiBvoPeuYBgOIMfxjPv8BN4QeGam7/mMK+iRz5hhbpouV9OAmdtiKfiWQqAhN/QamBZLAT/WBCopBHr5lUKwtgEJ8csfIHwAdfDc1vAU+wkAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>01:02:23.5400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>PB.50 - Morph Ball</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAADgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACTSURBVDhPpZK7DYAwDEQzRkagZCRGYAzGoWS0dAZbnDicDxEpnhRdzg9HIojIEM9hexPjLIy/rwp4KO3B4Kwp0MIyBYOHfF4UoMRfTSkZdr5zSIqCY71KOuTWVkxAd12CbIMvgX8Cg7z5BIASy5CBogAbcJHp3gAS3sCLM8Hwf6AhJIA3AOhVBYwfYjLBX4phPxJOWAA/Jyi9z8cAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>01:03:19.5500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ET.14 - Blue Brinstar E-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADRSURBVDhPpZKxEcIwDEU9BiNkDEagpKSkzAiUlIxBSckIlIzjzuTr8nSycQIcxeNs+etFJE7pXIzNsC3iMKRVyNHnzbv90Q7uY1olZk1AoRXknCumR1UCl7AZTxcr5NvULOamiOrKKEufCa6Pp9ETMJFNNQvIu4AxTTCvIxKpQeuY6U7AmkbQ2G3GBTpcege9v0DeBUhaQUSyKKBv8TPG8UH1Nl9dJIV6ty+ijDdzE5H8An0ugLfAh3q9mfC3+2XdfrArIBQWfAH2nFfT/Cco6QUSHg5Pz/d4ggAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>01:03:42.6100000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.210 - Blue Brinstar 2x Missiles</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>01:04:02.2800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.215 - Blue Brinstar 2x Missiles</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>01:04:10.0700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.220 - Blue Brinstar E-Tank</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>01:04:30.1300000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.225 - Pit Room</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>01:05:10.2500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>SM.50 - Crateria Supers</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAMAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC1SURBVDhPrY/BDcMgEARdQp6U4RJcRkpwGX66BJeRslICP6JB2tOGAFGkPMZw3N6Al+UsQUprget6BPt+BOpDzPmwhjzotKIQULSD5/P2hnIgSVdAraGcc6WVfAh8WKEe3kdSaz4uYN22ew1wzgvYc+aZqWDGVADsRy/w3FDAwEjAfipgz0pYEg2DZ4YCBXp4/6uAG/ULfrv6/3sBRU9AAOiNXlDPvPiFkKoA3aqbHe8pn9JaXvuS19hjqEnpAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>01:05:34.5800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>M.230 - Final Missiles</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9SURBVDhPvY+xDUIxDEQ9TkZgDEpKRqD85S8pGYUyIzACo6QzepEuckIU9BuKUxz77jkxdze790opeX7lqn3fquiNvpqNgBikjpqBOgCDGFRvrCOkAyhMrcD79Kga+0CoG4BmBChcSvmCCMDZAKvtIyBCloB8My9Pqyc6DMDAF1QfBqDr5Vyl+yEAQV6AUZD/APRvQRRG+H4CqAlhEEwgekuABjMAdxR9DRAHkrZKs3kDyKQtiFdFxZn87m4f5D4dtwg1Vv0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>01:06:08.4500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>SL.G4 - Four Statues</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAHgMAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKjSURBVDhPY2BgYARiZMDJxhxgzWOvw+5qzOdmKGiqxsvIyMjBysTBxsKIoRiomiktQKQygc9Om81YnlVPmlOImx3TUDhg9Dfh63ISc9XhcdBmb8sV1pNiMVDlUJTiVJfnkRZjg6qCgzgv4Y5U2WQnsQArfm9jzrI4ARc9tjmNkv2lMtVJYg0ZklLCSHpsDfjX9Cm7mArL8LMFWPOaK7HlhQlGOHBUJghaabCJcTLlhwrLSyBpCHEUstLiV5Biq0wUinbhzQwUjHLiiHbk1pQGKXI0FQywFwH6HqIYBIS4WdVlOTzMuMujhUNtuZf2KlUnixWFSrqbCkjys0Y7iegrcgsLcEBVA4GxllBZrHSYrbCtOreLHne4s1BLrpKXmYCLPlecm1SwrbCXiYCClABUtRAvu2O0fEysXJyTUGG0XEqAjK+lgJs+h64UqwI/Y5K7aLgtb4wLr5gAF1SDiQp3fap0eqBEU4bEwytOpXES6SHS/mYsOhIsysLMhqq8E0rESuPFmZnAfjDX4dw6X+Pcdt2SaL62XKF7R3Sb0/minQWdNFl1xZmNNAR1G7JDvESFeVlAMSjKyzSvge/0eoWDi6Uy/Tm8jNjac/ibMuVSvPmD7XjURNj8zIXiApQ0ZXnATmFgmFYlfHmz5M6pXNlBHOYqHBFO0qG2IoWp8nOmSLqZCPhaCkfYCXiZ8LEwMkM1vLxmeeeo/tIe2YZ0MQ8jnop4jWhXifhAiboiUU9j4dwQmcwAibIIwQRPfm42JpCT3t1zu7ZXd2KFYqi1gIcxp6exQLC1YLq/VLq/uLcZT5ybeF6IeEWM8MGFiibqwCBiZLh/2OD0WrnuAqFkD+7uPOEENzEvU744D+EUf2lXfY4oN/EUP/H8YMHDiyRDXHgYGBgBALuQDLYjs9UAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>01:06:54.3700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>SL.MB1 - Mother Brain</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA6AMAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAANtSURBVDhPVdJbTBNWHMfxw5DBsFzLHcVKsUCxHbSjpXbSGy2iFEtpkSHlIsMyLits49I4RQJmi7ppDBKWOXXJlgzDcDHBbATjwzKTve1p82HGvSzZMkN0C0Mflu8O8aHx4Zfz8v9/zj/nf8SFSCR6uzljgyUff5zYzWJTJrd6SuBrH4/Om9i8Xs/mvJXhPMEn1YIrVYKVlmz40s09fyJCI8T6alD539NrTu74FPw0UcWDSQ2PZit40J/FXzPyjBTQkSE4JPOxVnC/P4cfO5VcMcUjvNqKtQ90Cc/uH41nwSAY16Xxa7ScOdNLdCkF0yrBjFoQkROYEwQNCsFYcRz1OzLxpMkJlm8s1wUzxLM1j8CZJPCnC37pScWfKqi1Wemy6PDKxuO5gup4gVYIdiYmEQz5CLY2IH64e9dkSFX8NpAlMMqClhTBXKUgKG9ylxczP/c+QVs15bLRkL4dszKFIkUyRlUh8wtTCEBEw+HZAllQIuPIz8SVkYxBYvJ9sOhKmeg9jE42+BvtzC1MYywqwFWyg6+WLj0HNjc2kuqMVd8bVXn4NAUMOvXUFGRSlvoKhRJpdVTjPbCfwqREPls4zdTpYY6Z1USHAs+Brax+u+z+7np0ZdxfgztHgac0H1/lbmwSqsjNorZMhdesZ3Ymwjcrn9Jn28PELhED1p+sJz/8+Xbw89kQgfwU9MkJzLVaedOhx6rOQZebwcVzY3Qf8zM1PYTTYaFmW1wMGOoLzUcH/A8Dmjw0cYJBl47FsIeLEmk27EKTl8XMmRECgXra2g4SHmzHqcqPAYtXr/rViYJXlQo67AYmmsw06NW847NSX6HiSHMdnZ0+RkY6eVumo8WDraw4Btxbu/PaUPfhP3XZmYyEDjLZ5qLdZuC9SBcBr4OTU4P0yPFHRruxV+sYDR/h5GRfDHi8vp76xbWPTvj26f7pajAz0H6IXq+dLm8ttUYtb8mRA00OLp0fp1RuRpuWwoen+mPAVlZv3bS0eUy/H2+xEx0N4ZFbiPQ2UaZIwqguwqLeiVd+qlDwALXKZPIl9ALw9+Mn22ffHTzbYil9erannqBVS/vrWva8vI3GfVWEjzax37iX7h4/vTIuu+lFYCs3l244x9y6f081VvGGWcOwS09lXjrhgJvL50bxGMvQZ6exN0eJ11DO/yho9gNIDHMkAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>01:09:39.0200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>SL.MB2 - Mother Brain</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA6AMAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAANtSURBVDhPVdJbTBNWHMfxw5DBsFzLHcVKsUCxHbSjpXbSGy2iFEtpkSHlIsMyLits49I4RQJmi7ppDBKWOXXJlgzDcDHBbATjwzKTve1p82HGvSzZMkN0C0Mflu8O8aHx4Zfz8v9/zj/nf8SFSCR6uzljgyUff5zYzWJTJrd6SuBrH4/Om9i8Xs/mvJXhPMEn1YIrVYKVlmz40s09fyJCI8T6alD539NrTu74FPw0UcWDSQ2PZit40J/FXzPyjBTQkSE4JPOxVnC/P4cfO5VcMcUjvNqKtQ90Cc/uH41nwSAY16Xxa7ScOdNLdCkF0yrBjFoQkROYEwQNCsFYcRz1OzLxpMkJlm8s1wUzxLM1j8CZJPCnC37pScWfKqi1Wemy6PDKxuO5gup4gVYIdiYmEQz5CLY2IH64e9dkSFX8NpAlMMqClhTBXKUgKG9ylxczP/c+QVs15bLRkL4dszKFIkUyRlUh8wtTCEBEw+HZAllQIuPIz8SVkYxBYvJ9sOhKmeg9jE42+BvtzC1MYywqwFWyg6+WLj0HNjc2kuqMVd8bVXn4NAUMOvXUFGRSlvoKhRJpdVTjPbCfwqREPls4zdTpYY6Z1USHAs+Brax+u+z+7np0ZdxfgztHgac0H1/lbmwSqsjNorZMhdesZ3Ymwjcrn9Jn28PELhED1p+sJz/8+Xbw89kQgfwU9MkJzLVaedOhx6rOQZebwcVzY3Qf8zM1PYTTYaFmW1wMGOoLzUcH/A8Dmjw0cYJBl47FsIeLEmk27EKTl8XMmRECgXra2g4SHmzHqcqPAYtXr/rViYJXlQo67AYmmsw06NW847NSX6HiSHMdnZ0+RkY6eVumo8WDraw4Btxbu/PaUPfhP3XZmYyEDjLZ5qLdZuC9SBcBr4OTU4P0yPFHRruxV+sYDR/h5GRfDHi8vp76xbWPTvj26f7pajAz0H6IXq+dLm8ttUYtb8mRA00OLp0fp1RuRpuWwoen+mPAVlZv3bS0eUy/H2+xEx0N4ZFbiPQ2UaZIwqguwqLeiVd+qlDwALXKZPIl9ALw9+Mn22ffHTzbYil9erannqBVS/vrWva8vI3GfVWEjzax37iX7h4/vTIuu+lFYCs3l244x9y6f081VvGGWcOwS09lXjrhgJvL50bxGMvQZ6exN0eJ11DO/yho9gNIDHMkAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>01:11:13.1500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>SL.MB3 - Mother Brain</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA6AMAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAANtSURBVDhPVdJbTBNWHMfxw5DBsFzLHcVKsUCxHbSjpXbSGy2iFEtpkSHlIsMyLits49I4RQJmi7ppDBKWOXXJlgzDcDHBbATjwzKTve1p82HGvSzZMkN0C0Mflu8O8aHx4Zfz8v9/zj/nf8SFSCR6uzljgyUff5zYzWJTJrd6SuBrH4/Om9i8Xs/mvJXhPMEn1YIrVYKVlmz40s09fyJCI8T6alD539NrTu74FPw0UcWDSQ2PZit40J/FXzPyjBTQkSE4JPOxVnC/P4cfO5VcMcUjvNqKtQ90Cc/uH41nwSAY16Xxa7ScOdNLdCkF0yrBjFoQkROYEwQNCsFYcRz1OzLxpMkJlm8s1wUzxLM1j8CZJPCnC37pScWfKqi1Wemy6PDKxuO5gup4gVYIdiYmEQz5CLY2IH64e9dkSFX8NpAlMMqClhTBXKUgKG9ylxczP/c+QVs15bLRkL4dszKFIkUyRlUh8wtTCEBEw+HZAllQIuPIz8SVkYxBYvJ9sOhKmeg9jE42+BvtzC1MYywqwFWyg6+WLj0HNjc2kuqMVd8bVXn4NAUMOvXUFGRSlvoKhRJpdVTjPbCfwqREPls4zdTpYY6Z1USHAs+Brax+u+z+7np0ZdxfgztHgac0H1/lbmwSqsjNorZMhdesZ3Ymwjcrn9Jn28PELhED1p+sJz/8+Xbw89kQgfwU9MkJzLVaedOhx6rOQZebwcVzY3Qf8zM1PYTTYaFmW1wMGOoLzUcH/A8Dmjw0cYJBl47FsIeLEmk27EKTl8XMmRECgXra2g4SHmzHqcqPAYtXr/rViYJXlQo67AYmmsw06NW847NSX6HiSHMdnZ0+RkY6eVumo8WDraw4Btxbu/PaUPfhP3XZmYyEDjLZ5qLdZuC9SBcBr4OTU4P0yPFHRruxV+sYDR/h5GRfDHi8vp76xbWPTvj26f7pajAz0H6IXq+dLm8ttUYtb8mRA00OLp0fp1RuRpuWwoen+mPAVlZv3bS0eUy/H2+xEx0N4ZFbiPQ2UaZIwqguwqLeiVd+qlDwALXKZPIl9ALw9+Mn22ffHTzbYil9erannqBVS/vrWva8vI3GfVWEjzax37iX7h4/vTIuu+lFYCs3l244x9y6f081VvGGWcOwS09lXjrhgJvL50bxGMvQZ6exN0eJ11DO/yho9gNIDHMkAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>01:12:22.0200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>END.Escape - WIN</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAASwMAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALQSURBVDhPFZLdb1NlAMZ/7/uennNo11NYPzakHd3WrkO2dbWDwj5b3TgwJPuARdnIcAUyZMXpBozhJISPrZvgyCCAMxpBSfyIiSEh4UIvvNB/QCR44Z1eES+MiTGBUNqbJ0+e/J48Nw+pKtUZ1ZIhGbLwO1mrRMSlUlVaa622LazFLOXXpNcgaBF/SfSnFFG3I1OvWkLCg8w0S7tZ5vbLM8eZzfJ+jslROZCSg6+J9S652Sd6GiSdddQ6pQ9HbK0aSYuL73LzKnc+4Uaez2+xep2l0xzdQ7yiyOhBpfAhXD53uW6ma1jIceUSdz/l3jesXuO7u3z7BcuLLE3SlyiSepnPjWZvZLFdDURqyuTUXpbn+XilxK2u8PVtPrvBcp65LEkfWleIfBv8sI87No/eYiLRXi8+PMHl+RK0dJKPLpX8lVl2J9D6Izw8yG0bfh3lXh9/53iSW5euPNbN4ntcPku+qB+wNM3MIJVRFw/HeDrF/QH44wjPTpUW/j2uzXcknWS7mB1hcoiZEd62aV+HObyJ/yb57SD/n8Cb9Mvv+ymc4s9xnk5r51rDlY5Xg9gv01NN1CvNQ0388w6PszyfFr8M0+RivUupiTg/v0nhDM9neLDPmdrgF8Id84ovd/PsZCn/cUhcaA34DXqaZEe1avZgRTx8tac0VZjjyQQrGX7Plnxhlp/eMF+p2FxOd51g11Y5sku93iK7qohFTXEsyeMxCqd5dKhU/mucfDrcaGXC2A3yQK8iHRW9SdnXJrrqxcAWkanG3ehlagsLbZxr01s3bA+zdys7m0VPvEgqApqMWLLGdDR4ZaNP7UzIw720BLBgk8WYzVCniAdUvUeGDUfMo3AIuUY6/bpR61Z1ZVpQSjshF6Y50MH5HPt3yGISLdOilgo4dKcq/tkKrVGmrjlNaZTrMuxWFajhbjE3yvggQV1Vu5XPEE5pGJrLVMYL4zKnNPNdSIAAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="WR">
+          <RealTime>01:13:27.3600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\ZPARRISH\Downloads\LiveSplit_1.8.15\Components\LiveSplit.SuperMetroid.asl</ScriptPath>
+    <Start>True</Start>
+    <Reset>True</Reset>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="ammoPickups" type="bool">False</Setting>
+      <Setting id="firstMissile" type="bool">False</Setting>
+      <Setting id="allMissiles" type="bool">False</Setting>
+      <Setting id="specificMissiles" type="bool">False</Setting>
+      <Setting id="crateriaMissiles" type="bool">False</Setting>
+      <Setting id="oceanBottomMissiles" type="bool">False</Setting>
+      <Setting id="oceanTopMissiles" type="bool">False</Setting>
+      <Setting id="oceanMiddleMissiles" type="bool">False</Setting>
+      <Setting id="moatMissiles" type="bool">False</Setting>
+      <Setting id="oldTourianMissiles" type="bool">False</Setting>
+      <Setting id="gauntletRightMissiles" type="bool">False</Setting>
+      <Setting id="gauntletLeftMissiles" type="bool">False</Setting>
+      <Setting id="dentalPlan" type="bool">False</Setting>
+      <Setting id="brinstarMissiles" type="bool">False</Setting>
+      <Setting id="earlySuperBridgeMissiles" type="bool">False</Setting>
+      <Setting id="greenBrinstarReserveMissiles" type="bool">False</Setting>
+      <Setting id="greenBrinstarExtraReserveMissiles" type="bool">False</Setting>
+      <Setting id="bigPinkTopMissiles" type="bool">False</Setting>
+      <Setting id="chargeMissiles" type="bool">False</Setting>
+      <Setting id="greenHillsMissiles" type="bool">False</Setting>
+      <Setting id="blueBrinstarETankMissiles" type="bool">False</Setting>
+      <Setting id="alphaMissiles" type="bool">False</Setting>
+      <Setting id="billyMaysMissiles" type="bool">False</Setting>
+      <Setting id="butWaitTheresMoreMissiles" type="bool">False</Setting>
+      <Setting id="redBrinstarMissiles" type="bool">False</Setting>
+      <Setting id="warehouseMissiles" type="bool">False</Setting>
+      <Setting id="norfairMissiles" type="bool">False</Setting>
+      <Setting id="cathedralMissiles" type="bool">False</Setting>
+      <Setting id="crumbleShaftMissiles" type="bool">False</Setting>
+      <Setting id="crocomireEscapeMissiles" type="bool">False</Setting>
+      <Setting id="hiJumpMissiles" type="bool">False</Setting>
+      <Setting id="postCrocomireMissiles" type="bool">False</Setting>
+      <Setting id="grappleMissiles" type="bool">False</Setting>
+      <Setting id="norfairReserveMissiles" type="bool">False</Setting>
+      <Setting id="greenBubblesMissiles" type="bool">False</Setting>
+      <Setting id="bubbleMountainMissiles" type="bool">False</Setting>
+      <Setting id="speedBoostMissiles" type="bool">False</Setting>
+      <Setting id="waveMissiles" type="bool">False</Setting>
+      <Setting id="goldTorizoMissiles" type="bool">False</Setting>
+      <Setting id="mickeyMouseMissiles" type="bool">False</Setting>
+      <Setting id="lowerNorfairSpringMazeMissiles" type="bool">False</Setting>
+      <Setting id="threeMusketeersMissiles" type="bool">False</Setting>
+      <Setting id="wreckedShipMissiles" type="bool">False</Setting>
+      <Setting id="wreckedShipMainShaftMissiles" type="bool">False</Setting>
+      <Setting id="bowlingMissiles" type="bool">False</Setting>
+      <Setting id="atticMissiles" type="bool">False</Setting>
+      <Setting id="maridiaMissiles" type="bool">False</Setting>
+      <Setting id="mainStreetMissiles" type="bool">False</Setting>
+      <Setting id="mamaTurtleMissiles" type="bool">False</Setting>
+      <Setting id="wateringHoleMissiles" type="bool">False</Setting>
+      <Setting id="beachMissiles" type="bool">False</Setting>
+      <Setting id="leftSandPitMissiles" type="bool">False</Setting>
+      <Setting id="rightSandPitMissiles" type="bool">False</Setting>
+      <Setting id="aqueductMissiles" type="bool">False</Setting>
+      <Setting id="preDraygonMissiles" type="bool">False</Setting>
+      <Setting id="firstSuper" type="bool">False</Setting>
+      <Setting id="allSupers" type="bool">False</Setting>
+      <Setting id="specificSupers" type="bool">False</Setting>
+      <Setting id="climbSupers" type="bool">False</Setting>
+      <Setting id="sporeSpawnSupers" type="bool">False</Setting>
+      <Setting id="earlySupers" type="bool">False</Setting>
+      <Setting id="etacoonSupers" type="bool">False</Setting>
+      <Setting id="goldTorizoSupers" type="bool">False</Setting>
+      <Setting id="wreckedShipLeftSupers" type="bool">False</Setting>
+      <Setting id="wreckedShipRightSupers" type="bool">False</Setting>
+      <Setting id="crabSupers" type="bool">False</Setting>
+      <Setting id="wateringHoleSupers" type="bool">False</Setting>
+      <Setting id="aqueductSupers" type="bool">False</Setting>
+      <Setting id="firstPowerBomb" type="bool">False</Setting>
+      <Setting id="allPowerBombs" type="bool">False</Setting>
+      <Setting id="specificBombs" type="bool">False</Setting>
+      <Setting id="landingSiteBombs" type="bool">False</Setting>
+      <Setting id="etacoonBombs" type="bool">False</Setting>
+      <Setting id="pinkBrinstarBombs" type="bool">False</Setting>
+      <Setting id="blueBrinstarBombs" type="bool">False</Setting>
+      <Setting id="alphaBombs" type="bool">False</Setting>
+      <Setting id="betaBombs" type="bool">False</Setting>
+      <Setting id="crocomireBombs" type="bool">False</Setting>
+      <Setting id="lowerNorfairEscapeBombs" type="bool">False</Setting>
+      <Setting id="shameBombs" type="bool">False</Setting>
+      <Setting id="rightSandPitBombs" type="bool">False</Setting>
+      <Setting id="suitUpgrades" type="bool">False</Setting>
+      <Setting id="variaSuit" type="bool">False</Setting>
+      <Setting id="gravSuit" type="bool">False</Setting>
+      <Setting id="beamUpgrades" type="bool">False</Setting>
+      <Setting id="chargeBeam" type="bool">False</Setting>
+      <Setting id="spazer" type="bool">False</Setting>
+      <Setting id="wave" type="bool">False</Setting>
+      <Setting id="ice" type="bool">False</Setting>
+      <Setting id="plasma" type="bool">False</Setting>
+      <Setting id="bootUpgrades" type="bool">False</Setting>
+      <Setting id="hiJump" type="bool">False</Setting>
+      <Setting id="spaceJump" type="bool">False</Setting>
+      <Setting id="speedBooster" type="bool">False</Setting>
+      <Setting id="energyUpgrades" type="bool">False</Setting>
+      <Setting id="firstETank" type="bool">False</Setting>
+      <Setting id="allETanks" type="bool">False</Setting>
+      <Setting id="specificETanks" type="bool">False</Setting>
+      <Setting id="gauntletETank" type="bool">False</Setting>
+      <Setting id="terminatorETank" type="bool">False</Setting>
+      <Setting id="ceilingETank" type="bool">False</Setting>
+      <Setting id="etecoonsETank" type="bool">False</Setting>
+      <Setting id="waterwayETank" type="bool">False</Setting>
+      <Setting id="waveGateETank" type="bool">False</Setting>
+      <Setting id="kraidETank" type="bool">False</Setting>
+      <Setting id="crocomireETank" type="bool">False</Setting>
+      <Setting id="hiJumpETank" type="bool">False</Setting>
+      <Setting id="ridleyETank" type="bool">False</Setting>
+      <Setting id="firefleaETank" type="bool">False</Setting>
+      <Setting id="wreckedShipETank" type="bool">False</Setting>
+      <Setting id="tatoriETank" type="bool">False</Setting>
+      <Setting id="botwoonETank" type="bool">False</Setting>
+      <Setting id="reserveTanks" type="bool">False</Setting>
+      <Setting id="specificRTanks" type="bool">False</Setting>
+      <Setting id="brinstarReserve" type="bool">False</Setting>
+      <Setting id="norfairReserve" type="bool">False</Setting>
+      <Setting id="wreckedShipReserve" type="bool">False</Setting>
+      <Setting id="maridiaReserve" type="bool">False</Setting>
+      <Setting id="miscUpgrades" type="bool">False</Setting>
+      <Setting id="morphBall" type="bool">False</Setting>
+      <Setting id="bomb" type="bool">False</Setting>
+      <Setting id="springBall" type="bool">False</Setting>
+      <Setting id="screwAttack" type="bool">False</Setting>
+      <Setting id="grapple" type="bool">False</Setting>
+      <Setting id="xray" type="bool">False</Setting>
+      <Setting id="areaTransitions" type="bool">False</Setting>
+      <Setting id="miniBossRooms" type="bool">False</Setting>
+      <Setting id="bossRooms" type="bool">False</Setting>
+      <Setting id="elevatorTransitions" type="bool">False</Setting>
+      <Setting id="ceresEscape" type="bool">False</Setting>
+      <Setting id="wreckedShipEntrance" type="bool">False</Setting>
+      <Setting id="redTowerBottomEntrance" type="bool">False</Setting>
+      <Setting id="kraidsLair" type="bool">False</Setting>
+      <Setting id="risingTideEntrance" type="bool">False</Setting>
+      <Setting id="atticExit" type="bool">False</Setting>
+      <Setting id="tubeBroken" type="bool">False</Setting>
+      <Setting id="cacExit" type="bool">False</Setting>
+      <Setting id="toilet" type="bool">False</Setting>
+      <Setting id="kronicBoost" type="bool">False</Setting>
+      <Setting id="lowerNorfairEntrance" type="bool">False</Setting>
+      <Setting id="writg" type="bool">False</Setting>
+      <Setting id="redKiShaft" type="bool">False</Setting>
+      <Setting id="metalPirates" type="bool">False</Setting>
+      <Setting id="lowerNorfairSpringMaze" type="bool">False</Setting>
+      <Setting id="lowerNorfairExit" type="bool">False</Setting>
+      <Setting id="goldenFour" type="bool">False</Setting>
+      <Setting id="tourianEntrance" type="bool">False</Setting>
+      <Setting id="metroids" type="bool">False</Setting>
+      <Setting id="babyMetroidRoom" type="bool">False</Setting>
+      <Setting id="escapeClimb" type="bool">False</Setting>
+      <Setting id="miniBosses" type="bool">False</Setting>
+      <Setting id="ceresRidley" type="bool">False</Setting>
+      <Setting id="bombTorizo" type="bool">False</Setting>
+      <Setting id="sporeSpawn" type="bool">False</Setting>
+      <Setting id="crocomire" type="bool">False</Setting>
+      <Setting id="botwoon" type="bool">False</Setting>
+      <Setting id="goldenTorizo" type="bool">False</Setting>
+      <Setting id="bosses" type="bool">False</Setting>
+      <Setting id="kraid" type="bool">False</Setting>
+      <Setting id="phantoon" type="bool">False</Setting>
+      <Setting id="draygon" type="bool">False</Setting>
+      <Setting id="ridley" type="bool">False</Setting>
+      <Setting id="mb1" type="bool">False</Setting>
+      <Setting id="mb2" type="bool">False</Setting>
+      <Setting id="mb3" type="bool">False</Setting>
+      <Setting id="rtaFinish" type="bool">False</Setting>
+      <Setting id="igtFinish" type="bool">False</Setting>
+      <Setting id="sporeSpawnRTAFinish" type="bool">False</Setting>
+      <Setting id="hundredMissileRTAFinish" type="bool">False</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>
