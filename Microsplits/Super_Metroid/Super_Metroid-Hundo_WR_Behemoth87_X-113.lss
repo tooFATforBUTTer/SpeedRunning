@@ -1375,7 +1375,8 @@
   </Segments>
   <AutoSplitterSettings>
     <Version>1.5</Version>
-    <ScriptPath>C:\Users\ZPARRISH\Downloads\LiveSplit_1.8.15\Components\LiveSplit.SuperMetroid.asl</ScriptPath>
+    <ScriptPath>
+    </ScriptPath>
     <Start>True</Start>
     <Reset>True</Reset>
     <Split>True</Split>
